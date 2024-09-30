@@ -1,3 +1,6 @@
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+</a>  <br>
 C# kodu, kullanıcıdan bir ürünün ismini, fiyatını ve miktarını alarak bu bilgileri ekrana yazdıran basit bir konsol uygulamasıdır. İşte adım adım ne yaptığı:
 Global Değişkenler: urunIsmi, urunFiyati ve urunMiktari adında üç adet statik değişken tanımlanmış.
 Kullanıcıdan Girdi Alma:
