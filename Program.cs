@@ -20,6 +20,7 @@ class UrunCikisVeritabani
 
         decimal toplamFiyat = urunFiyati * urunMiktari;
 
+
         Console.WriteLine("Ürün Bilgileri:");
         Console.WriteLine("İsim: " + urunIsmi);
         Console.WriteLine("Fiyat: " + urunFiyati);
