@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arazu\\Desktop\\tüm hayatım burda\\ders_Mehmet-Balci\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "/workspaces/Database_Products-.NET/ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arazu\\Desktop\\tüm hayatım burda\\ders_Mehmet-Balci\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "/workspaces/Database_Products-.NET/ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arazu\\Desktop\\tüm hayatım burda\\ders_Mehmet-Balci\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "/workspaces/Database_Products-.NET/ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\arazu\\Desktop\\tüm hayatım burda\\ders_Mehmet-Balci\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\arazu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arazu\\Desktop\\tüm hayatım burda\\ders_Mehmet-Balci\\ConsoleApp1\\obj\\",
+        "projectPath": "/workspaces/Database_Products-.NET/ConsoleApp1.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/Database_Products-.NET/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\arazu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

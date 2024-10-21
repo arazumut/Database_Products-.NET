@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConsoleApp1
-build_property.ProjectDir = C:\Users\arazu\Desktop\tüm hayatım burda\ders_Mehmet-Balci\ConsoleApp1\
+build_property.ProjectDir = /workspaces/Database_Products-.NET/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

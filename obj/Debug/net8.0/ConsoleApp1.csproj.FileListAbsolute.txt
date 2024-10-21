@@ -1,14 +1,29 @@
-C:\Users\arazu\Desktop\tüm hayatım burda\ders_Mehmet-Balci\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
-C:\Users\arazu\Desktop\tüm hayatım burda\ders_Mehmet-Balci\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
-C:\Users\arazu\Desktop\tüm hayatım burda\ders_Mehmet-Balci\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
-C:\Users\arazu\Desktop\tüm hayatım burda\ders_Mehmet-Balci\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
-C:\Users\arazu\Desktop\tüm hayatım burda\ders_Mehmet-Balci\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
-C:\Users\arazu\Desktop\tüm hayatım burda\ders_Mehmet-Balci\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\arazu\Desktop\tüm hayatım burda\ders_Mehmet-Balci\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
-C:\Users\arazu\Desktop\tüm hayatım burda\ders_Mehmet-Balci\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
-C:\Users\arazu\Desktop\tüm hayatım burda\ders_Mehmet-Balci\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
-C:\Users\arazu\Desktop\tüm hayatım burda\ders_Mehmet-Balci\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
-C:\Users\arazu\Desktop\tüm hayatım burda\ders_Mehmet-Balci\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
-C:\Users\arazu\Desktop\tüm hayatım burda\ders_Mehmet-Balci\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
-C:\Users\arazu\Desktop\tüm hayatım burda\ders_Mehmet-Balci\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
-C:\Users\arazu\Desktop\tüm hayatım burda\ders_Mehmet-Balci\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:/Users/arazu/Desktop/tüm hayatım burda/ders_Mehmet-Balci/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.exe
+C:/Users/arazu/Desktop/tüm hayatım burda/ders_Mehmet-Balci/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+C:/Users/arazu/Desktop/tüm hayatım burda/ders_Mehmet-Balci/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+C:/Users/arazu/Desktop/tüm hayatım burda/ders_Mehmet-Balci/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+C:/Users/arazu/Desktop/tüm hayatım burda/ders_Mehmet-Balci/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+C:/Users/arazu/Desktop/tüm hayatım burda/ders_Mehmet-Balci/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/arazu/Desktop/tüm hayatım burda/ders_Mehmet-Balci/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+C:/Users/arazu/Desktop/tüm hayatım burda/ders_Mehmet-Balci/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+C:/Users/arazu/Desktop/tüm hayatım burda/ders_Mehmet-Balci/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+C:/Users/arazu/Desktop/tüm hayatım burda/ders_Mehmet-Balci/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+C:/Users/arazu/Desktop/tüm hayatım burda/ders_Mehmet-Balci/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+C:/Users/arazu/Desktop/tüm hayatım burda/ders_Mehmet-Balci/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+C:/Users/arazu/Desktop/tüm hayatım burda/ders_Mehmet-Balci/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+C:/Users/arazu/Desktop/tüm hayatım burda/ders_Mehmet-Balci/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
+/workspaces/Database_Products-.NET/bin/Debug/net8.0/ConsoleApp1
+/workspaces/Database_Products-.NET/bin/Debug/net8.0/ConsoleApp1.deps.json
+/workspaces/Database_Products-.NET/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/workspaces/Database_Products-.NET/bin/Debug/net8.0/ConsoleApp1.dll
+/workspaces/Database_Products-.NET/bin/Debug/net8.0/ConsoleApp1.pdb
+/workspaces/Database_Products-.NET/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Database_Products-.NET/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/workspaces/Database_Products-.NET/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/workspaces/Database_Products-.NET/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/workspaces/Database_Products-.NET/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
+/workspaces/Database_Products-.NET/obj/Debug/net8.0/ConsoleApp1.dll
+/workspaces/Database_Products-.NET/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/workspaces/Database_Products-.NET/obj/Debug/net8.0/ConsoleApp1.pdb
+/workspaces/Database_Products-.NET/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/workspaces/Database_Products-.NET/obj/Debug/net8.0/ref/ConsoleApp1.dll
