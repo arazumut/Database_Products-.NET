@@ -11,6 +11,7 @@ Kullanıcıdan ürünün ismini girmesi isteniyor ve bu değer urunIsmi değişk
 Kullanıcıdan ürünün fiyatını girmesi isteniyor ve bu değer urunFiyati değişkenine atanıyor.
 Kullanıcıdan ürünün miktarını girmesi isteniyor ve bu değer urunMiktari değişkenine atanıyor.
 Toplam Fiyat Hesaplama: urunFiyati ile urunMiktari çarpılarak toplamFiyat değişkenine atanıyor.
+
 Bilgileri Ekrana Yazdırma: Ürünün ismi, fiyatı, miktarı ve toplam fiyatı ekrana yazdırılıyor.
 
 ![Ekran görüntüsü 2024-09-30 185436](https://github.com/user-attachments/assets/5a944802-d339-4c01-9ca9-48d245340aa3)
