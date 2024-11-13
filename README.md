@@ -9,6 +9,7 @@ Kullanıcıdan ürünün ismini girmesi isteniyor ve bu değer urunIsmi değişk
 ![Ekran görüntüsü 2024-09-30 185447](https://github.com/user-attachments/assets/954700b5-8ecc-4c78-908b-265bbee07623)
 
 Kullanıcıdan ürünün fiyatını girmesi isteniyor ve bu değer urunFiyati değişkenine atanıyor.
+
 Kullanıcıdan ürünün miktarını girmesi isteniyor ve bu değer urunMiktari değişkenine atanıyor.
 Toplam Fiyat Hesaplama: urunFiyati ile urunMiktari çarpılarak toplamFiyat değişkenine atanıyor.
 
